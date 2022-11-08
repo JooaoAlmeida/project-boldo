@@ -1,14 +1,26 @@
 .main-button{
     display: inline-block;
+    box-sizing: border-box;
     text-align: center;
-    line-height: 40px;
-    border-radius: 20px;
+    border-radius: 50em;
     background-color: #FFF;
-    width: 128px;
-    height: 40px;
+    padding: 10px 40px;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-weight: 600;
     color: #0A2640;
     text-decoration: none;
+}
+.main-button.-sec{
+    background-color: #65E4A3;
+    font-size: 20px;
+    padding: 12.5px 56px;
+}
+.main-button.-third{
+    background-color: #0A2640;
+    color: #FFF;
+    border: 2px solid #FFF;
+    font-size: 20px;
+    padding: 12.5px 56px;
+    margin-left: 25px;
 }

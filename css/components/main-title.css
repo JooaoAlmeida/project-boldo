@@ -1,10 +1,7 @@
 .main-title{
     font-family: 'Manrope', sans-serif;
-    font-size: 43.25px;
-    font-weight: 700;
-    color: #fff;
-
-}
-.main-title.-margin-title{
-    margin-left: 16px;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 72px;
+    color: #FFF;
 }
