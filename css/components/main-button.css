@@ -1,0 +1,14 @@
+.main-button{
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 20px;
+    background-color: #FFF;
+    width: 128px;
+    height: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #0A2640;
+    text-decoration: none;
+}
