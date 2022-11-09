@@ -1,10 +1,23 @@
+.main-article{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 60px;
+}
 .main-article .text-article{
     font-size: 16px;
     font-weight: 400;
     color: #fff;
     margin-bottom: 40px;
+    line-height: 28px;
 }
 .main-article .article-box{
+    display: inline-block;
     width: 542px;
-    line-height: 28px;
+}
+.main-article .article-box.-sec{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 506px;
 }
