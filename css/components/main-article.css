@@ -14,8 +14,8 @@
 }
 .main-article .article-box{
     display: inline-block;
-    width: 542px;
-    min-width: 542px;
+    width: 544px;
+    min-width: 544px;
 }
 .main-article .article-box.-sec{
     display: flex;
