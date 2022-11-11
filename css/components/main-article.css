@@ -1,5 +1,6 @@
 .main-article{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     margin-top: 60px;
@@ -14,10 +15,12 @@
 .main-article .article-box{
     display: inline-block;
     width: 542px;
+    min-width: 542px;
 }
 .main-article .article-box.-sec{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     width: 506px;
+    min-width: 506px;
 }
