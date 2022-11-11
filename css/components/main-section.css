@@ -3,4 +3,9 @@
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 56px;
+    padding-bottom: 65px;
+}
+.width-body{
+    max-width: 1400px;
+    margin: 0px auto;
 }

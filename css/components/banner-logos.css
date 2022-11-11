@@ -7,6 +7,7 @@
     content: '';
     position: absolute;
     width: calc(100% - 200px);
+    max-width: 1400px;
     height: 38px;
     z-index: 0;
     background-image: linear-gradient(to left, #0A2640, transparent, #0A2640);
