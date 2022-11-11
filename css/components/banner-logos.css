@@ -1,0 +1,13 @@
+.banner-logos{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+}
+.banner-logos::after{
+    content: '';
+    position: absolute;
+    width: calc(100% - 200px);
+    height: 38px;
+    z-index: 0;
+    background-image: linear-gradient(to left, #0A2640, transparent, #0A2640);
+}
