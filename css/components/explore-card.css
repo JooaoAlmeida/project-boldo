@@ -1,0 +1,35 @@
+.explore-card{
+    display: inline-block;
+    width: 300px;
+
+}
+.explore-card .img-card{
+    margin-bottom: 24px;
+}
+.explore-card .title-card{
+    font-size: 24px;
+    font-weight: 400;
+}
+.explore-card .parag-card{
+    font-size: 20px;
+    font-weight: 400;
+    color: #777;
+    margin-top: 12px;
+    line-height: 32px;
+}
+.explore-card .act-card{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    color:#0A2640;
+    text-decoration: none;
+    margin-top: 28px;
+    
+}
+.explore-card .act-card::after{
+    content: '';
+    display: block;
+    box-sizing: border-box;
+    border: 1px solid #000;
+    margin-top: 8px;
+}

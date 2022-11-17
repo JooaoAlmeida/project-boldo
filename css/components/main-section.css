@@ -5,6 +5,9 @@
     padding-top: 56px;
     padding-bottom: 65px;
 }
+.main-section.-bgWhite{
+    background-color: #fff;
+}
 .max-width{
     max-width: 1200px;
     margin: 0px auto;
